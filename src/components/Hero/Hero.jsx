@@ -8,7 +8,7 @@ export const Hero = () => {
             <h1 className={styles.title}>Hi, I'm Shelby</h1>
             <p className={styles.description}>Lorem ipsum dolor sit amet, consectetur 
             adipiscing elit, sed do eiusmod tempor 
-            incididunt ut labore et dolore magna.</p>
+            incididunt ut labore et dolore magna.</p> {/*TODO: Add text or animation*/}
             <a href="#" className={styles.resumeBtn}>Resume</a> {/*TODO: Add other buttons and resume download*/}
         </div>
         <img src={getImageUrl("hero/heroImage.png")} alt="cartoon hero image of woman coding" className={styles.heroImg}/>
