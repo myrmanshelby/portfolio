@@ -4,7 +4,8 @@
     color: var(--color-text);
     margin-top: 79px;
     margin-left: 10%;
-    margin-right: 10%
+    margin-right: 10%;
+    display: flex;
 }
 
 .title {
@@ -16,7 +17,8 @@
 }
 
 .skills {
-    margin-top: 14px;
+    margin-top: 50px;
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
     gap: 11px;

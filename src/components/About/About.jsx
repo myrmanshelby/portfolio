@@ -3,7 +3,7 @@ import { getImageUrl } from "../../utils";
 import styles from "./About.module.css"
 
 export const About = () => {
-    return <section className={styles.container}>
+    return <section className={styles.container} id="about">
         <div className={styles.content}>
             <div>
                 <h2 className={styles.title}>About</h2>
