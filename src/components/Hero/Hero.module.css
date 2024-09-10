@@ -29,7 +29,7 @@
 .description {
     font-size: 30px;
     font-family: var(--font-roboto);
-    margin-bottom: 52px;
+    margin-bottom: 30px;
 }
 
 .resumeBtn {
@@ -45,9 +45,10 @@
 
 .buttons {
     display: flex;
-    gap: 10px;
+    gap: 20px;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 
 .heroImg {

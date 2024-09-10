@@ -1,16 +1,17 @@
 import React from "react";
 import { getImageUrl } from "../../utils";
 import styles from "./Hero.module.css"
+import { Typewriter } from 'react-simple-typewriter';
 
 export const Hero = () => {
     return <section className={styles.container}>
         <div className={styles.content}>
             <h1 className={styles.title}>Hi, I'm Shelby</h1>
-            <p className={styles.description}>Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit, sed do eiusmod tempor 
-            incididunt ut labore et dolore magna.</p> {/*TODO: Add text or animation*/}
+            <p className={styles.description}>I am a<span>
+							<Typewriter words={[' Software Engineer.', ' problem solver.', ' Machine Learning Engineer.', 'n AI enthusiast.', ' Full Stack Developer.']} loop={0} cursor cursorStyle='_' typeSpeed={70} deleteSpeed={50} delaySpeed={1000} />
+						</span></p>
             <div className={styles.buttons}>
-                <a href="#" className={styles.resumeBtn}>Resume</a> {/*TODO: Add other buttons and resume download*/}
+                <a href="#" className={styles.resumeBtn}>Resume</a> {/*TODO: Add resume download*/}
                 <div>
                     <a href="mailto:smyrman@ucsd.edu" target="_blank" rel="noopener noreferrer">
                         <img src={getImageUrl("social/emailIcon.png")} alt="Email icon" />
