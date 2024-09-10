@@ -26,3 +26,9 @@ export const About = () => {
         </div>
     </section> 
 }
+
+/* TODO: 
+- make buttons work
+- Add actual text (maybe as a json?)
+- figure out sizing
+*/

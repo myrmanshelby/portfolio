@@ -28,3 +28,5 @@ export const Experience = () => {
         </ul>
     </section>
 }
+
+/*TODO: make images clickable*/
