@@ -11,14 +11,14 @@
       "title": "Portfolio",
       "imageSrc": "projects/project.png",
       "description": "The mobile-responsive landing page you're looking at right now.",
-      "skills": ["JavaScript", "React", "Node", "HTML", "CSS"],
+      "skills": ["JavaScript", "React", "HTML", "CSS"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
     {
         "title": "Language Detector",
         "imageSrc": "projects/project.png",
-        "description": "A webapp that detects the language of a given text document using n-grams and text scraping.",
+        "description": "A webapp that detects the language of a given text document using n-grams.",
         "skills": ["Python", "Flask", "NLP"],
         "demo": "https://www.example.com",
         "source": "https://www.github.com"
