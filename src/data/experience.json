@@ -1,7 +1,7 @@
 [
     {
       "role": "UX Writer",
-      "organisation": "Paperwork",
+      "organization": "Paperwork",
       "startDate": "Sept 2022",
       "endDate": "Apr 2024",
       "experiences": ["Wrote and edited more than 30 modules to provide financial advice to users in an easy-to-understand, conversational flow within the mobile app; Assisted software engineering team with logic related to modules", "Performed weekly QA testing across the app; provided engineering team with detailed reports on bugs and errors"],
@@ -9,7 +9,7 @@
     },
     {
       "role": "Content Specialist",
-      "organisation": "FlowRider",
+      "organization": "FlowRider",
       "startDate": "Jan 2022",
       "endDate": "Sept 2022",
       "experiences": ["Managed the redesign of flowrider.com; assisted in developing templates for product and venue pages using JavaScript, HTML/CSS, and WordPress; resulted in a 30% increase in website traffic", "Created monthly marketing analytics reports for stakeholders using Excel to track social and website engagement"],
@@ -17,7 +17,7 @@
     },
     {
       "role": "Data Science Intern",
-      "organisation": "Swift",
+      "organization": "Swift",
       "startDate": "June 2019",
       "endDate": "Sept 2019",
       "experiences": [

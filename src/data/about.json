@@ -1,0 +1,17 @@
+[
+    {
+      "time": "past",
+      "paras": ["When I was ten years old, my dad handed me Practical Poker Math to prepare for our family’s first annual Thanksgiving poker tournament. I won, much to the dismay of my sisters, and my lifelong love for numbers and logic was born.",
+            "At the same time, I’ve always been quite creative with a passion for storytelling. After double majoring in Economics and Statistics, I started my career in marketing, where I sharpened my communication, persuasion, and project management skills.",
+            "Three years ago, I realized something was missing: math. I sharpened my logic skills with daily brain teasers, which led me to learn everything I could about computer science. I dove deep into algorithms and took on personal projects, refining my programming skills and reigniting my passion for problem-solving."]
+    },
+    {
+        "time": "past",
+        "paras": ["After years of self-study, I’m now pursuing my Master’s in Computer Science at UCSD, with a focus on Artificial Intelligence. My coursework spans theory, systems, and applications, including classes like Probabilistic Reasoning, Recommender Systems, and Advanced Algorithms.",
+        "Outside of class, I'm constantly working on personal projects. My current obsession? A Learning Management System that enables teachers to upload problem sets, uses LLMs to tutor students, and provides feedback to help teachers tailor instruction to individual learning styles. Check out the source code here."]
+    },
+    {
+      "time": "past",
+      "paras": ["Wrote and edited more than 30 modules to provide financial advice to users in an easy-to-understand, conversational flow within the mobile app; Assisted software engineering team with logic related to modules", "Performed weekly QA testing across the app; provided engineering team with detailed reports on bugs and errors"]
+    }
+  ]

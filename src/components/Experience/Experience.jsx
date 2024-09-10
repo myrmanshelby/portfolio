@@ -11,7 +11,7 @@ export const Experience = () => {
               <li key={id} className={styles.item}>
                 <img
                   src={getImageUrl(item.imageSrc)}
-                  alt={`${item.organisation} Logo`}
+                  alt={`${item.organization} Logo`}
                 />
                 <div className={styles.itemDetails}>
                   <h3>{`${item.role}, ${item.organisation}`}</h3>
