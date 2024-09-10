@@ -8,19 +8,19 @@
       "source": "https://github.com/myrmanshelby/blackjack"
     },
     {
+      "title": "Language Detector",
+      "imageSrc": "projects/lang-detector.png",
+      "description": "A webapp that detects the language of input text using n-grams.",
+      "skills": ["Python", "Flask", "NLP"],
+      "demo": "https://shelby-language-detector.onrender.com/",
+      "source": "https://github.com/myrmanshelby/language-detector"
+    },
+    {
       "title": "Portfolio",
       "imageSrc": "projects/portfolio.png",
       "description": "The mobile-responsive landing page you're looking at right now.",
       "skills": ["JavaScript", "React", "HTML", "CSS"],
       "demo": "https://www.shelbymyrman.com",
       "source": "https://github.com/myrmanshelby/portfolio"
-    },
-    {
-        "title": "Language Detector",
-        "imageSrc": "projects/lang-detector.png",
-        "description": "A webapp that detects the language of input text using n-grams.",
-        "skills": ["Python", "Flask", "NLP"],
-        "demo": "https://shelby-language-detector.onrender.com/",
-        "source": "https://github.com/myrmanshelby/language-detector"
     }
   ]

@@ -12,7 +12,7 @@
       "organization": "FlowRider",
       "startDate": "Jan 2022",
       "endDate": "Sept 2022",
-      "experiences": ["Managed the redesign of flowrider.com; assisted in developing templates for product and venue pages using JavaScript, HTML/CSS, and WordPress; resulted in a 30% increase in website traffic", "Created monthly marketing analytics reports for stakeholders using Excel to track social and website engagement"],
+      "experiences": ["Managed the redesign of flowrider.com and assisted in the development of product and venue pages using WordPress, HTML, and CSS; resulted in a 30% increase in website traffic", "Created monthly marketing analytics reports for stakeholders using Excel to measure social and website engagement"],
       "imageSrc": "experience/flowrider.jpeg"
     },
     {
@@ -21,7 +21,7 @@
       "startDate": "June 2019",
       "endDate": "Sept 2019",
       "experiences": [
-        "Scraped 100,000+ social posts with Crimson Hexagon and performed sentiment analysis on our client’s users using Python; made recommendations to improve public impression",
+        "Scraped 100,000+ social posts with Crimson Hexagon and performed sentiment analysis on our clients' users using Python; made recommendations to improve public impression",
         "Overlayed census data with ArcGIS to find high-income, family-oriented neighborhoods for the nonprofit Portland Backpack to target with guerilla marketing campaign"
       ],
       "imageSrc": "experience/swift.jpeg"
