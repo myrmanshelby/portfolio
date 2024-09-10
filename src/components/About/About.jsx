@@ -9,6 +9,7 @@ export const About = () => {
     return <section className={styles.container} id="about">
         <h2 className={styles.title}>About</h2>
         <div className={`${styles.content} ${styles.darkContainer}`}>
+        <img src={getImageUrl("about/aboutImage.png")} className={styles.aboutImg}/>
             <div className={styles.rightContent}>
                 <div className={styles.btnContainer}>
                     <button 
@@ -35,13 +36,13 @@ export const About = () => {
                 </div>
                 {past && (
                     <div className={styles.textContent}><p>When I was ten years old, my dad handed me the book <em>Practical Poker Math</em> to prepare for our family’s first annual Thanksgiving poker tournament. After taking home the $30 grand prize, my lifelong love for numbers and logic was born.</p>
-                    <p>Alongside numbers, I’ve always been quite creative with a passion for storytelling. After double majoring in Economics and Statistics, I started my career in marketing, where I sharpened my communication, persuasion, and project management skills.</p>
-                    <p>Three years ago, I realized something was missing: math. I sharpened my logic skills with daily brain teasers, which led me to learn everything I could about computer science. I dove deep into algorithms and took on personal projects, refining my programming skills and reigniting my passion for problem-solving.</p></div>
+                    <p>Alongside numbers, I’ve always had a passion for storytelling. After double majoring in Economics and Statistics, I started my career in marketing, where I sharpened my communication, persuasion, and project management skills.</p>
+                    <p>But something was missing: math. To satisfy this missing piece, I began reading everything I could about computer science. I dove deep into algorithms and took on personal projects, refining my programming skills and reigniting my passion for problem-solving.</p></div>
                 )}
                 {present && (
                     <div className={`${present && styles.presentText} ${styles.textContent}`}>
-                        <p>After years of self-study, I’m now pursuing my Master’s in Computer Science at UCSD, with a focus on Artificial Intelligence. My coursework spans theory, systems, and applications, including classes like Probabilistic Reasoning, Recommender Systems, and Advanced Algorithms.</p>
-                        <p>Outside of class, I'm constantly working on personal projects. My current obsession? A Learning Management System that enables teachers to upload problem sets, uses LLMs to tutor students, and provides feedback to help teachers tailor instruction to individual learning styles. Check out the source code here.</p>
+                        <p>After years of self-study, I’m now pursuing my Master’s in Computer Science at UCSD, with a focus on Artificial Intelligence. My coursework spans theory, systems, and applications, including classes like Probabilistic Reasoning for AI, Recommender Systems and Web Mining, and Advanced Algorithms.</p>
+                        <p>Outside of class, I'm constantly working on personal projects. My current obsession? A Learning Management System that enables teachers to upload problem sets, uses LLMs to tutor students, and provides feedback to help teachers tailor instruction to individual learning styles. Check out the source code <a href="https://github.com/myrmanshelby/learning-management-system" target="_blank" rel="noopener noreferrer">here</a>.</p>
                     </div>
                 )}
                 {future && (
@@ -54,3 +55,4 @@ export const About = () => {
         </div>
     </section> 
 }
+/*TODO: Add source code in present section */

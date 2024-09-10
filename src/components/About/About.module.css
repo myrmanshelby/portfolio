@@ -73,6 +73,15 @@ button {
     gap: 15px;
 }
 
+.aboutImg {
+    max-height: 20vw; 
+    object-fit: cover;
+}
+
+a {
+    color: var(--color-text)
+}
+
 @media (max-width: 830px) {
     .container {
         margin-left: 5%;
@@ -100,5 +109,9 @@ button {
 
     .title {
         font-size: 28px;
+    }
+
+    .aboutImg {
+        display: none;
     }
 }

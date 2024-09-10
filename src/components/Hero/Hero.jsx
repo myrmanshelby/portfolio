@@ -8,7 +8,7 @@ export const Hero = () => {
         <div className={styles.content}>
             <h1 className={styles.title}>Hi, I'm Shelby</h1>
             <p className={styles.description}>I am a<span>
-							<Typewriter words={[' Software Engineer.', ' problem solver.', ' Machine Learning Engineer.', 'n AI enthusiast.', ' Full Stack Developer.']} loop={0} cursor cursorStyle='_' typeSpeed={70} deleteSpeed={50} delaySpeed={1000} />
+							<Typewriter words={[' Software Engineer.', ' creative problem solver.', ' Machine Learning Engineer.', 'n AI enthusiast.', ' Full Stack Developer.']} loop={0} cursor cursorStyle='_' typeSpeed={70} deleteSpeed={50} delaySpeed={1000} />
 						</span></p>
             <div className={styles.buttons}>
                 <a href="#" className={styles.resumeBtn}>Resume</a> {/*TODO: Add resume download*/}
