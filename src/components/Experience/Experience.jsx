@@ -14,7 +14,7 @@ export const Experience = () => {
                   alt={`${item.organization} Logo`}
                 />
                 <div className={styles.itemDetails}>
-                  <h3>{`${item.role}, ${item.organisation}`}</h3>
+                  <h3>{`${item.role}, ${item.organization}`}</h3>
                   <p>{`${item.startDate} - ${item.endDate}`}</p>
                   <ul>
                     {item.experiences.map((bullet, id) => {
