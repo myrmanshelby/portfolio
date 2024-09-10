@@ -9,6 +9,7 @@
   padding: 18px 24px;
   max-width: 345px;
   transition: box-shadow 0.3s ease-in-out;
+  z-index: 1;
 }
 
 .container:hover {
