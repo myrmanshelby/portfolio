@@ -36,7 +36,7 @@ export const About = () => {
                 </div>
                 {past && (
                     <div className={styles.textContent}><p>When I was ten years old, my dad handed me the book <em>Practical Poker Math</em> to prepare for our family’s first annual Thanksgiving poker tournament. After taking home the $30 grand prize, my lifelong love for numbers and logic was born.</p>
-                    <p>Alongside numbers, I’ve always had a passion for storytelling. After double majoring in Economics and Statistics, I started my career in marketing, where I sharpened my communication, persuasion, and project management skills.</p>
+                    <p>Alongside numbers, I’ve always had a passion for storytelling. After double majoring in Economics and Statistics, I started my career in marketing, where I sharpened my communication, analysis, and project management skills.</p>
                     <p>But something was missing: math. To satisfy this missing piece, I began reading everything I could about computer science. I dove deep into algorithms and took on personal projects, refining my programming skills and reigniting my passion for problem-solving.</p></div>
                 )}
                 {present && (

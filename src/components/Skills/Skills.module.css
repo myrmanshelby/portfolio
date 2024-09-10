@@ -50,3 +50,11 @@
     font-family: var(--font-roboto);
     font-weight: 500;
 }
+
+.skillImg {
+    transition: transform 0.5s ease-in-out;
+}
+
+.skillImg:hover {
+    transform: rotate(360deg);
+}
