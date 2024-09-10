@@ -54,7 +54,7 @@
 
 .textContent:hover {
     box-shadow: 0 0 20px 5px rgba(255, 255, 255, 0.8);
-  }
+}
 
 button {
     background-color: var(--color-primary);
@@ -67,6 +67,9 @@ button {
     border: 0;
 }
 
+button:hover {
+    cursor: pointer;
+}
 .activeBtn {
     background-color: var(--color-text);
     color: var(--color-primary)
