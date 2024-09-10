@@ -2,7 +2,7 @@
     {
       "title": "Blackjack",
       "imageSrc": "projects/project.png",
-      "description": "Following standard, casino rules, a blackjack game with betting functionality.",
+      "description": "Following standard casino rules, a blackjack game with betting functionality.",
       "skills": ["JavaScript", "Python", "Flask"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
@@ -18,7 +18,7 @@
     {
         "title": "Language Detector",
         "imageSrc": "projects/project.png",
-        "description": "A webapp that detects the language of a given text document using n-grams.",
+        "description": "A webapp that detects the language of input text using n-grams.",
         "skills": ["Python", "Flask", "NLP"],
         "demo": "https://www.example.com",
         "source": "https://www.github.com"

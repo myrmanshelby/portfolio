@@ -24,16 +24,12 @@
         "imageSrc": "skills/sql.png"
     },
     {
-        "title": "Firebase",
-        "imageSrc": "skills/firebase.png"
+      "title": "Firebase",
+      "imageSrc": "skills/firebase.png"
     },
     {
-      "title": "HTML",
-      "imageSrc": "skills/html.png"
-    },
-    {
-      "title": "CSS",
-      "imageSrc": "skills/css.png"
+      "title": "Flask",
+      "imageSrc": "skills/flask.png"
     },
     {
       "title": "React",
@@ -42,6 +38,14 @@
     {
       "title": "Node",
       "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
     },
     {
       "title": "Figma",

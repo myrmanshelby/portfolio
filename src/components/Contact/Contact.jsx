@@ -10,7 +10,7 @@ export const Contact = () => {
         <h2>Get in Touch</h2>
       </div>
       <div className={styles.buttons}>
-        <a href="#" className={styles.resumeBtn}>Resume</a> {/*TODO: ADD RESUME DOWNLOAD*/}
+        <a href={getImageUrl("files/resume-shelby-myrman.pdf")} target="_blank" rel="noopener noreferrer" className={styles.resumeBtn}>Resume</a> {/*TODO: ADD RESUME DOWNLOAD*/}
         <div>
             <a href="mailto:smyrman@ucsd.edu" target="_blank" rel="noopener noreferrer">
                 <img src={getImageUrl("social/emailIcon.png")} alt="Email icon" />
