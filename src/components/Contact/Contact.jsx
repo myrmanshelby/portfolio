@@ -24,7 +24,6 @@ export const Contact = () => {
             <a href="https://github.com/myrmanshelby" target="_blank" rel="noopener noreferrer">
                 <img src={getImageUrl("social/githubIcon.png")} alt="Github icon" />
             </a>
-
         </div>
       </div>
     </footer>

@@ -43,6 +43,13 @@
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
 }
 
+.buttons {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
 .heroImg {
     width: 50%;
     z-index: 1;
@@ -94,6 +101,9 @@
 }
 
 @media screen and (max-width: 830px) {
+    .buttons {
+        flex-direction: column;
+    }
     .container {
         flex-direction: column-reverse;
     }
