@@ -11,7 +11,7 @@ export const Hero = () => {
 							<Typewriter words={[' Software Engineer.', ' creative problem solver.', ' Machine Learning Engineer.', 'n AI enthusiast.', ' Full Stack Developer.']} loop={0} cursor cursorStyle='_' typeSpeed={70} deleteSpeed={50} delaySpeed={1000} />
 						</span></p>
             <div className={styles.buttons}>
-                <a href={getImageUrl("files/resume-shelby-myrman.pdf")} target="_blank" rel="noopener noreferrer" className={styles.resumeBtn}>Resume</a> {/*TODO: Add resume download*/}
+                <a href={getImageUrl("files/resume-shelby-myrman.pdf")} target="_blank" rel="noopener noreferrer" className={styles.resumeBtn}>Resume</a>
                 <div>
                     <a href="mailto:smyrman@ucsd.edu" target="_blank" rel="noopener noreferrer">
                         <img src={getImageUrl("social/emailIcon.png")} alt="Email icon" />

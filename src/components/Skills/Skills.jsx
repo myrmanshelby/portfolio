@@ -16,5 +16,3 @@ export const Skills = () => {
         </div>
     </section>
 }
-
-/* TODO: Add spinning animation to skill images */

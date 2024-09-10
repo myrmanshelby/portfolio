@@ -55,4 +55,3 @@ export const About = () => {
         </div>
     </section> 
 }
-/*TODO: Add source code in present section */
